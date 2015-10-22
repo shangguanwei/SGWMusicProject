@@ -1,0 +1,20 @@
+//
+//  SGWMusicProject.pch
+//  SGWMusicProject
+//
+//  Created by neuedu on 15/9/29.
+//  Copyright (c) 2015年 neuedu. All rights reserved.
+//
+
+#ifndef SGWMusicProject_SGWMusicProject_pch
+#define SGWMusicProject_SGWMusicProject_pch
+
+#import "UIButton+SGWImage.h"
+#import "UIView+SGWMoreAttribute.h"
+
+#define kScreenWidth [UIScreen mainScreen].applicationFrame.size.width
+#define kScreenHeight [UIScreen mainScreen].applicationFrame.size.height
+#define kWidthRatio 44.0/320.0
+#define kHeightRatio 44.0/568.0
+
+#endif
